@@ -13,7 +13,7 @@ I helped with the uploading and storage of photos by the user. I helped to make 
 
 
 All though, I was not granted permisson to upload the project to Github myself, I was granted permission to take snippets of code that I had written in order to document my work.
-Joing the team for this two week sprint was amazing. Not only did I gain expierence with MVC and CRUD, I also benefited from practice of using proper version control, creating new branches from the master, and learning how to save changes. I also got experience commiting and pushing branches and creating pull requests when merging branches.
+Joing the team for this two week sprint was amazing. Not only did I gain expierence with MVC and CRUD, I also benefited from practice of using proper version control, creating new branches from the master, and learning how to save changes. I got experience commiting and pushing branches and creating pull requests when merging branches.
 
 
-Lastly, I gained experience on how to use Azure DevOps to maintain work items and boards. Improved on how to work as a team on a project using resources together to solve problems. For example the Slack app for communication, and also the daily Stand ups with the project manager.
+Lastly, I gained knowledge on how to use Azure DevOps to maintain work items and boards. Improved on how to work as a team on a project using resources together to solve problems. For example the Slack app for communication, and also the daily Stand ups and code retrospectives with the project manager.
