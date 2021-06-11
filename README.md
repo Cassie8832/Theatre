@@ -1,3 +1,10 @@
+
+Code Summary For Theatre
+
+
+
+
+
 I participated in two weeks worth of sprints with a team working on customization and usabilty of a website for a movie theatre. We worked with Visual Studio, worked on front-end and back-end, and Azure. Daily stand-ups, and emails, reflected the work environment during the sprint, with code retrospectives and devOps.
 
 
