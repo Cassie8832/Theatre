@@ -6,7 +6,7 @@ One of my first assignments was to create and style a contact page where user co
 I was also tasked with creating a photographer application user for the Blog Photo Area. The Blog Photographer acted as an admin in the Blog Photo area.![IMG_5886](https://user-images.githubusercontent.com/77596096/121617229-5b519b00-ca19-11eb-8fc3-5aada8395340.jpg) 
 
 I helped with the uploading and storage of photos by the user. I helped to make a a controller with a parameter to convert an uploaded photo into a byte[]. Then save that byte array to a table in a database. The byte[] representing each photo could also be retrieved from the database and displayed back on the View page.![IMG_6079 (1)](https://user-images.githubusercontent.com/77596096/121617743-71139000-ca1a-11eb-9e8f-d20ef61655b5.jpg)
-![IMG_6079](https://user-images.githubusercontent.com/77596096/121617746-740e8080-ca1a-11eb-81f3-00ecb1e8ee28.jpg)
+
 
 All though, I was not granted permisson to upload the project to Github myself, I was granted permission to take snippets of code that I had written in order to document my work.
 Joing the team for this two week sprint was amazing. Not only did I gain expierence with MVC and CRUD, I also benefited from practice of using proper version control, creating new branches from the master, and learning how to save changes. I also got experience commiting and pushing branches and creating pull requests when merging branches.
