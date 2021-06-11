@@ -1,0 +1,9 @@
+namespace TheatreCMS3.Areas.Blog.Models
+{
+    public class BlogPhotographer : ApplicationUser
+    {
+        public string Biography { get; set; }
+        public int PhotosAdded { get; set; }
+
+    }
+}
