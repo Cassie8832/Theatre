@@ -1,0 +1,23 @@
+public ActionResult Create([Bind(Include = "BlogPhotoId,Title,Photo")] BlogPhoto blogPhoto, HttpPostedFileBase
+
+{
+	byte[] data;
+	using (System.IO.Stream inputStream = file.InputStream;
+        {
+
+		if (memoryStream ==null)
+		{
+			memoryStream= new MemoryStream();
+			inputStream.CopyTo.(memoryStream);
+		}
+		data = memoryStream.ToaRRAY();
+	}
+
+		if (ModelState.IsValid)
+		{
+			blogPhoto.Photo = data;
+			db.BlogPhoto.Add(blogPhoto);
+		}
+
+		return View(blogPhoto);
+}
